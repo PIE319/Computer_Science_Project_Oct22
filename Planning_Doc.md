@@ -9,3 +9,8 @@ It will also handle turning the fan on and off.
 
 The target audience of this project is anybody looking to save money and efficently cool an area. The Rotating Servo Fan will be able to cool an area that would usually require 2 fans, thus saving energy
 and requiring less fans to be bought. It will be much less wasteful that traditional fans. The ideal use case of this is in offices with mutiple peopl working nearby. It will be able to keep 2 people cool by directing cold air at the person that most needs it.
+
+Roughwork diagrams and mindmap:
+![20221014_112851](https://user-images.githubusercontent.com/73748751/195827017-2085def9-23bb-4d43-ac39-c77159be29a8.png)
+![20221014_112838](https://user-images.githubusercontent.com/73748751/195827032-a814ab12-797f-44d5-b267-4aa1a93a995c.png)
+![20221014_112844](https://user-images.githubusercontent.com/73748751/195827040-8a683f8c-28d6-4ccd-a2aa-77d66d7e99e6.png)
