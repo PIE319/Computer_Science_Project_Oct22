@@ -69,6 +69,7 @@ and requiring less fans to be bought. It will be much less wasteful that traditi
 <img width="500" alt="planning2" src="https://user-images.githubusercontent.com/73748751/195827032-a814ab12-797f-44d5-b267-4aa1a93a995c.png">
 <img width="500" alt="planning3" src="https://user-images.githubusercontent.com/73748751/195827040-8a683f8c-28d6-4ccd-a2aa-77d66d7e99e6.png">
 <img width="500" alt="planning4" src="https://user-images.githubusercontent.com/73748751/196133200-198c5c9f-6bdf-43ac-8f01-6757c2b29462.png">
+<img width="500" alt="planning4" src="https://user-images.githubusercontent.com/73748751/196456836-3c26c2cc-b927-4179-977d-bb21ce58f227.png">
 
 ### Desired features:
 - Rotating fan
