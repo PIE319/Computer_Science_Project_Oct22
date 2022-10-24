@@ -5,6 +5,8 @@
 ### Images
 <img width="500" alt="MainModule" src="https://user-images.githubusercontent.com/73748751/196121499-0c7d01d7-df80-429d-ad34-9eafd753cb7f.png">
 <img width="500" alt="TemperatureModules" src="https://user-images.githubusercontent.com/73748751/196121936-55edb805-e726-43bd-9f7d-198c690a4a74.png">
+<img width="500" alt="TemperatureModulesCompleted" src="https://user-images.githubusercontent.com/73748751/197479809-54004f05-4e6b-476d-ba4a-61559bb11f84.png">
+<img width="500" alt="TemperatureModulesCompleted" src="https://user-images.githubusercontent.com/73748751/197481516-bac4cedb-76e1-46ec-bb54-d88a21283546.png">
 
 ### Features and operation
 
