@@ -42,3 +42,24 @@ It also reworks the displays to update only when the temperature changes. This r
 ### Known issues/bugs
 - The 180 servo and fan do not currently work
 - The project can not adapt effetively to different angles as it only rotates to 180 degrees and 0 degrees. We wanted to allow the user to customise the Angles but ran out of time to implement this feature.
+
+## Weekly timetables
+
+#### Week 1:	10th-15th October
+- This week’s task:	Decide what we are going to do our project on and begin operations. 
+- What did you do:	Chose our project idea and assigned each of us a role and began our work
+- Outcome:	We completed the code and got the correct equipment. We also began the write up and the brainstorm ideas document
+- Reflection	We are pleased with the work we got done this week.	 
+			
+
+#### Week 2:	17th-21st October
+- This week’s task:	Correcting and testing the code. Completing our write up and reflection log.
+- What did you do:	We decided how to build our device with Lego and microbit equipment. We tested our code and filled in write up.
+- Outcome:	We build our Lego devices to hold the microbits and fan.
+- Reflection:	We are satisfied with the work we did this week
+
+### Week 3:	24th-28th October
+- This week’s task:	We must assemble our project to completion and complete our write up 
+- What did you do:	We completed our Lego build for all the microbits and the fan
+- Outcome:	Our project is almost fully completed
+- Reflection:	We are happy with the work we got done this week
