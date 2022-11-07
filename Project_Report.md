@@ -43,7 +43,7 @@ It also reworks the displays to update only when the temperature changes. This r
 - The 180 servo and fan do not currently work
 - The project can not adapt effetively to different angles as it only rotates to 180 degrees and 0 degrees. We wanted to allow the user to customise the Angles but ran out of time to implement this feature.
 
-## Weekly timetables
+## Weekly reflections
 
 #### Week 1:	10th-15th October
 - This week’s task:	Decide what we are going to do our project on and begin operations. 
